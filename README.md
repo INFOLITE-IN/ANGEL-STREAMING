@@ -98,7 +98,7 @@ python3 main.py
 
 ᴄʜᴇᴄᴋ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ᴀɴᴅ ғᴏʟʟᴏᴡ ᴍᴇ 
 - [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-TEAM-NRD) 👈🏼
-- [𝘿𝙀𝙈𝙊 𝘽𝙊𝙏](https://t.me/social_mechanic_music_bot) 👈🏼
+- [𝘿𝙀𝙈𝙊 𝘽𝙊𝙏](https://t.me/social_mechanic_voice_bot) 👈🏼
 - [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
 
 
