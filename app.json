@@ -1,7 +1,8 @@
 {
-    "name": "VCPlayerBot",
+    "name": "ANGEL-VIDEO-STREAM",
+    "logo": "https://telegra.ph/file/6caec29bf58337953a4b4.png",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/subinps/VCPlayerBot",
+    "repository": "https://github.com/SOCIAL-MECHANIC-TEAM-NRD/ANGEL-VIDEO-STREAM",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -67,7 +68,7 @@
       },
       "STARTUP_STREAM": {
         "description": "YouTube live / Direct link to a video / Telegram link to a YouTube playlist.(Read the README for more info.) ",
-        "value": "https://youtu.be/zcrUCvBD16k",
+        "value": "https://youtu.be/fgIYIIW1xMY",
         "required": false
       },
       "REPLY_MESSAGE": {
