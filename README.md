@@ -3,11 +3,11 @@
  <IMG src="https://telegra.ph/file/6caec29bf58337953a4b4.png">
 </a>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/subinps/VCPlayerBot?color=blue&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/subinps/VCPlayerBot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/subinps/VCPlayerBot)
-![GitHub contributors](https://img.shields.io/github/contributors/subinps/VCPlayerBot?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/subinps/VCPlayerBot?style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/SOCIAL-MECHANIC-1997/ANGEL-STREAMING?color=blue&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/SOCIAL-MECHANIC-1997/ANGEL-STREAMING)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/SOCIAL-MECHANIC-1997/ANGEL-STREAMING)
+![GitHub contributors](https://img.shields.io/github/contributors/SOCIAL-MECHANIC-1997/ANGEL-STREAMING?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/SOCIAL-MECHANIC-1997/ANGEL-STREAMING?style=flat)
 
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
 
