@@ -1,4 +1,4 @@
-echo "Cloning Repo...."
+ echo "Cloning Repo...."
 if [ -z $BRANCH ]
 then
   echo "Cloning main branch...."
